@@ -56,35 +56,20 @@ I design and build security for Microsoft cloud and hybrid environments: identit
 
 ## Stack
 
-**Security**<br>
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-141820?style=flat-square)
-![Defender XDR](https://img.shields.io/badge/Defender%20XDR-141820?style=flat-square)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-141820?style=flat-square)
-![Conditional Access](https://img.shields.io/badge/Conditional%20Access-141820?style=flat-square)
-![KQL](https://img.shields.io/badge/KQL-141820?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-141820?style=flat-square)
-![FortiGate](https://img.shields.io/badge/FortiGate-141820?style=flat-square)
+**Security**
 
-**Platforms & ops**<br>
-![Azure](https://img.shields.io/badge/Azure-141820?style=flat-square)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-141820?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-141820?style=flat-square)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-141820?style=flat-square)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-141820?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-141820?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-141820?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-141820?style=flat-square)
-![Zabbix](https://img.shields.io/badge/Zabbix-141820?style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-141820?style=flat-square)
+| <img src="https://img.icons8.com/color/48/azure-1.png" width="28" height="28" alt="Microsoft Sentinel"><br><sub>Microsoft Sentinel</sub> | <img src="https://img.icons8.com/color/48/microsoft.png" width="28" height="28" alt="Defender XDR"><br><sub>Defender XDR</sub> | <img src="https://img.icons8.com/color/48/microsoft.png" width="28" height="28" alt="Entra ID"><br><sub>Entra ID</sub> | <img src="https://img.icons8.com/color/48/microsoft.png" width="28" height="28" alt="Conditional Access"><br><sub>Conditional Access</sub> | <img src="https://img.icons8.com/color/48/console.png" width="28" height="28" alt="KQL"><br><sub>KQL</sub> | <img src="https://img.icons8.com/color/48/kali-linux.png" width="28" height="28" alt="Kali Linux"><br><sub>Kali Linux</sub> | <img src="https://img.icons8.com/color/48/firewall.png" width="28" height="28" alt="FortiGate"><br><sub>FortiGate</sub> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-**Code & tools**<br>
-![PowerShell](https://img.shields.io/badge/PowerShell-141820?style=flat-square)
-![Python](https://img.shields.io/badge/Python-141820?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-141820?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-141820?style=flat-square)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-141820?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141820?style=flat-square)
-![Git](https://img.shields.io/badge/Git-141820?style=flat-square)
+**Platforms & ops**
+
+| <img src="https://img.icons8.com/color/48/azure-1.png" width="28" height="28" alt="Azure"><br><sub>Azure</sub> | <img src="https://img.icons8.com/color/48/office-365.png" width="28" height="28" alt="Microsoft 365"><br><sub>Microsoft 365</sub> | <img src="https://img.icons8.com/color/48/linux.png" width="28" height="28" alt="Linux"><br><sub>Linux</sub> | <img src="https://img.icons8.com/color/48/windows-10.png" width="28" height="28" alt="Windows Server"><br><sub>Windows Server</sub> | <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="28" height="28" alt="Ubuntu"><br><sub>Ubuntu</sub> | <img src="https://img.icons8.com/color/48/docker.png" width="28" height="28" alt="Docker"><br><sub>Docker</sub> | <img src="https://img.icons8.com/color/48/terraform.png" width="28" height="28" alt="Terraform"><br><sub>Terraform</sub> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+**Code & tools**
+
+| <img src="https://img.icons8.com/color/48/powershell.png" width="28" height="28" alt="PowerShell"><br><sub>PowerShell</sub> | <img src="https://img.icons8.com/color/48/python.png" width="28" height="28" alt="Python"><br><sub>Python</sub> | <img src="https://img.icons8.com/color/48/console.png" width="28" height="28" alt="Bash"><br><sub>Bash</sub> | <img src="https://img.icons8.com/color/48/javascript.png" width="28" height="28" alt="JavaScript"><br><sub>JavaScript</sub> | <img src="https://img.icons8.com/color/48/php.png" width="28" height="28" alt="PHP"><br><sub>PHP</sub> | <img src="https://img.icons8.com/color/48/git.png" width="28" height="28" alt="Git"><br><sub>Git</sub> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="28" height="28" alt="VS Code"><br><sub>VS Code</sub> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 **Frameworks**<br>
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-ff3b30?style=flat-square)
