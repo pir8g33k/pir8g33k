@@ -1,7 +1,10 @@
 <!--
   Personal profile README for github.com/pir8g33k (James Eduard)
-  Repo: pir8g33k/pir8g33k (default branch: master). Art lives in ./assets.
-  Theme matches kagesecuritylab.com (bg #07080a, accent #ff3b30) without Kage branding.
+  Source: kage-github-profile\personal-profile (edit here). Publish with sync-personal.ps1 to the clone
+  D:\ClaudeRepos\github\pir8g33k\pir8g33k (branch pir8g33k/JamesEduard).
+  Everything below the banner is plain Markdown: edit the text directly.
+  Only image file: assets/banner.svg. Badges are shields.io URLs (text lives in the URL).
+  Theme colours: background 0b0d10 / panel 141820 / accent ff3b30 / text e7e9ec
 -->
 
 <p align="center">
@@ -19,9 +22,7 @@
   <a href="https://www.facebook.com/Pir8g33k"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-141820?style=for-the-badge&logo=facebook&logoColor=e7e9ec"></a>
 </p>
 
-<br>
-
-<img src="assets/fig-01.svg" alt="FIG. 01 Whoami" width="100%">
+## <sub><code>FIG. 01</code></sub> Whoami
 
 ```yaml
 name:      James Eduard
@@ -29,35 +30,50 @@ handle:    pir8g33k
 role:      DevSecOps engineer
 founder:   Kage Security Labs
 location:  Hong Kong
-focus:
-  - DevSecOps: CI/CD, infrastructure as code, hardening
-  - Detection: Microsoft Sentinel, Defender XDR, KQL
-  - Offensive: Active Directory, attack simulation labs
 believes:  Open source. Automate the boring parts.
 fuel:      Coffee
 ```
 
 Open source advocate. I build, watch and break systems so the next person has less to fix. Always happy to collaborate.
 
-<br>
+## <sub><code>FIG. 02</code></sub> Focus
 
-<img src="assets/fig-02.svg" alt="FIG. 02 Focus" width="100%">
+| `00 — DEVSECOPS` | `01 — DETECTION` | `02 — OFFENSIVE` |
+|---|---|---|
+| **Build.** Pipelines that ship fast and ship safely. | **Watch.** Telemetry that tells the whole story. | **Break.** Test it before someone else does. |
+| ▸ CI/CD & GitHub Actions | ▸ Microsoft Sentinel & KQL | ▸ Kali Linux tooling |
+| ▸ Infrastructure as code (Terraform) | ▸ Defender XDR & Entra ID | ▸ Active Directory assessment |
+| ▸ Linux, containers & hardening | ▸ Zabbix & Prometheus monitoring | ▸ Attack simulation labs |
 
-<p align="center">
-  <img src="assets/focus.svg" alt="Build: DevSecOps. Watch: detection. Break: offensive security." width="100%">
-</p>
+## <sub><code>FIG. 03</code></sub> Stack
 
-<br>
+**Security**<br>
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-141820?style=flat-square&logo=microsoftazure&logoColor=ff3b30)
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-141820?style=flat-square&logo=microsoft&logoColor=ff3b30)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-141820?style=flat-square&logo=microsoft&logoColor=ff3b30)
+![KQL](https://img.shields.io/badge/KQL-141820?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-141820?style=flat-square&logo=kalilinux&logoColor=ff3b30)
+![FortiGate](https://img.shields.io/badge/FortiGate-141820?style=flat-square&logo=fortinet&logoColor=ff3b30)
 
-<img src="assets/fig-03.svg" alt="FIG. 03 Stack" width="100%">
+**Platforms & ops**<br>
+![Linux](https://img.shields.io/badge/Linux-141820?style=flat-square&logo=linux&logoColor=e7e9ec)
+![Windows](https://img.shields.io/badge/Windows-141820?style=flat-square&logo=windows&logoColor=e7e9ec)
+![Azure](https://img.shields.io/badge/Azure-141820?style=flat-square&logo=microsoftazure&logoColor=e7e9ec)
+![Docker](https://img.shields.io/badge/Docker-141820?style=flat-square&logo=docker&logoColor=e7e9ec)
+![Terraform](https://img.shields.io/badge/Terraform-141820?style=flat-square&logo=terraform&logoColor=e7e9ec)
+![Zabbix](https://img.shields.io/badge/Zabbix-141820?style=flat-square&logo=zabbix&logoColor=e7e9ec)
+![Prometheus](https://img.shields.io/badge/Prometheus-141820?style=flat-square&logo=prometheus&logoColor=e7e9ec)
 
-<p align="center">
-  <img src="assets/stack.svg" alt="Security, platforms and tools I work with" width="100%">
-</p>
+**Code & tools**<br>
+![PowerShell](https://img.shields.io/badge/PowerShell-141820?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-141820?style=flat-square&logo=gnubash&logoColor=e7e9ec)
+![JavaScript](https://img.shields.io/badge/JavaScript-141820?style=flat-square&logo=javascript&logoColor=e7e9ec)
+![PHP](https://img.shields.io/badge/PHP-141820?style=flat-square&logo=php&logoColor=e7e9ec)
+![Git](https://img.shields.io/badge/Git-141820?style=flat-square&logo=git&logoColor=e7e9ec)
+![VS Code](https://img.shields.io/badge/VS%20Code-141820?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-141820?style=flat-square&logo=wordpress&logoColor=e7e9ec)
 
-<br>
-
-<img src="assets/fig-04.svg" alt="FIG. 04 Writing" width="100%">
+## <sub><code>FIG. 04</code></sub> Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Export and import Linux distributions on Windows 10 (WSL)](https://jameseduard.com/?p=4048)
@@ -67,9 +83,7 @@ Open source advocate. I build, watch and break systems so the next person has le
 - [VS Code Remote over SSH](https://jameseduard.com/?p=4021)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
-<img src="assets/fig-05.svg" alt="FIG. 05 Signal" width="100%">
+## <sub><code>FIG. 05</code></sub> Signal
 
 | Channel | Where |
 |---|---|
@@ -87,8 +101,6 @@ Open source advocate. I build, watch and break systems so the next person has le
 </p>
 -->
 
-<br>
+---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pir8g33k"><img src="assets/footer.svg" alt="Open to collaborations. jameseduard.com" width="100%"></a>
-</p>
+<p align="center"><b>Open to collaborations. Coffee helps.</b><br><sub><code>END OF FILE // PIR8G33K</code></sub></p>
