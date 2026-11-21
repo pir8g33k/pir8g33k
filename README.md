@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://www.jameseduard.com"><img alt="Website: jameseduard.com" src="https://img.shields.io/badge/jameseduard.com-ff3b30?style=for-the-badge&labelColor=0b0d10&label=site"></a>
+  <a href="https://kagesecuritylab.com/"><img alt="Kage Security Labs" src="https://img.shields.io/badge/Kage%20Security%20Labs-141820?style=for-the-badge&labelColor=0b0d10&label=founder"></a>
   <a href="https://www.linkedin.com/in/jameseduardandaya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141820?style=for-the-badge"></a>
   <a href="https://twitter.com/pir8g33k"><img alt="X @pir8g33k" src="https://img.shields.io/badge/X-141820?style=for-the-badge"></a>
   <a href="https://dev.to/pir8g33k"><img alt="DEV" src="https://img.shields.io/badge/DEV-141820?style=for-the-badge"></a>
@@ -25,21 +26,24 @@
 ```yaml
 name:      James Eduard
 handle:    pir8g33k
-role:      Cyber Security Architect   # SOS Group Limited
+role:      Cybersecurity architect & DevSecOps engineer
+founder:   Kage Security Labs        # kagesecuritylab.com
 location:  Hong Kong
 focus:     [security architecture, Microsoft security, detection engineering, automation]
 believes:  Open source. Automate the boring parts.
 fuel:      Coffee
 ```
 
-I'm a Cyber Security Architect in Hong Kong. I design and build security for cloud and hybrid environments: identity, detection and the pipelines around them. Outside work I build open tools and hardware and write at [jameseduard.com](https://www.jameseduard.com).
+I design and build security for Microsoft cloud and hybrid environments: identity, detection and the pipelines around them. At **[Kage Security Labs](https://kagesecuritylab.com/)** we help organisations see what an attacker can see, then fix what matters first.
 
 ## Selected work
 
 | Project | What I built | Stack |
 |---|---|---|
-| **[Kurogane K-7 cyberdeck](https://github.com/Kage-Security-Labs/kurogane-cyberdeck)** | An open, modular **handheld Linux terminal** on a Raspberry Pi CM5 and a custom carrier board: 7" touch display, QMK keyboard with trackball, LTE/5G and hot-swap modules for GNSS, LoRa and SDR. In progress (rev A concept). | Raspberry Pi CM5 · KiCad · OpenSCAD · QMK |
-| **Defender simulation range** | A self-contained **Microsoft Defender lab** on Hyper-V: an AD domain onboarded to MDE / MDI / MDO, attack and phishing simulations, cloud-identity scenarios adapted from SimuLand, and a local control panel. | PowerShell · Hyper-V · KQL · MITRE ATT&CK |
+| **[Kage Security Labs](https://kagesecuritylab.com/)** | Founded an analyst-led practice for threat intelligence, dark web monitoring, red team operations and Microsoft security. | Threat intel · VAPT · Red team · Microsoft security |
+| **[kagesecuritylab.com](https://kagesecuritylab.com/tools/)** | A static, nothing-to-exploit website with **24 browser-based security tools** (13 free) that run client-side, with no queries stored. Its own domain scores **100/100** on email posture (SPF, DKIM, DMARC reject, MTA-STS, TLS-RPT, BIMI). | JavaScript · Cloudflare Workers · Decap CMS |
+| **Kage Security Toolkit** | **17 browser-based tools** for Microsoft 365, Entra ID and Azure: Conditional Access gap analysis, MFA and app-credential reports, Defender XDR incident views, and Maester and Zero Trust posture checks. It uses delegated permissions only, and no tenant data passes through the server. | JavaScript · Python · Microsoft Graph |
+| **Kage SimRange** | A self-contained **Microsoft Defender simulation range** on Hyper-V: an AD domain onboarded to MDE / MDI / MDO, published attack and phishing simulations, cloud-identity scenarios adapted from SimuLand, and a local control panel. | PowerShell · Hyper-V · KQL · MITRE ATT&CK |
 
 ## Focus
 
@@ -75,6 +79,12 @@ I'm a Cyber Security Architect in Hong Kong. I design and build security for clo
 
 ## Writing
 
+**From the lab** · [kagesecuritylab.com/intel](https://kagesecuritylab.com/intel/)
+
+- [Node2Shell (CVE-2026-111497): the Brotli flaw reaching Node.js, Python and beyond](https://kagesecuritylab.com/intel/node2shell-cve-2026-111497/)
+- [PHP2Shell (CVE-2026-109618, CVE-2026-109619): patch PHP now](https://kagesecuritylab.com/intel/php2shell-cve-2026-109618-109619/)
+- [Defending Microsoft 365 against adversary-in-the-middle phishing](https://kagesecuritylab.com/intel/aitm-phishing-conditional-access/)
+
 **Personal blog** · [jameseduard.com](https://www.jameseduard.com)
 
 <!-- BLOG-POST-LIST:START -->
@@ -90,7 +100,8 @@ I'm a Cyber Security Architect in Hong Kong. I design and build security for clo
 | Channel | Where |
 |---|---|
 | Website | [jameseduard.com](https://www.jameseduard.com) |
-| Email | [business@jameseduard.com](mailto:business@jameseduard.com) |
+| Kage Security Labs | [kagesecuritylab.com](https://kagesecuritylab.com/) · [book a scoping call](https://kagesecuritylab.com/contact/) |
+| Business | [business@jameseduard.com](mailto:business@jameseduard.com) |
 | LinkedIn | [jameseduardandaya](https://www.linkedin.com/in/jameseduardandaya/) |
 | X | [@pir8g33k](https://twitter.com/pir8g33k) |
 | DEV | [dev.to/pir8g33k](https://dev.to/pir8g33k) |
